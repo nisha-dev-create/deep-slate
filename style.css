@@ -1,0 +1,76 @@
+body{
+    background-color: #262222;
+    color: #908787;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1{
+    color: #b8b5b5;
+    background-color: #1c1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+h2{
+    color: #b8b5b5;
+    font-size: 2em;
+    margin-top: 0px
+    
+}
+
+.menu{
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #1c1a1a;
+    border-radius: 10px;
+    width: 80%;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.menu h3{
+    color: #b8b5b5;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    text-decoration-line: underline;
+}
+
+.menu h4{
+    color: #5b5757;
+    font-weight:bold;
+    text-decoration-line: underline;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.appetizers, .main-course, .desserts{
+    margin-bottom: 20px;
+    background-color: #a19a9a;
+    color: #353232;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(203, 198, 198, 0.2);
+}
+
+.menu ul{
+    list-style-type:square;
+    padding: 5px 5px;
+    text-align: center;
+}
+
+.deals ul{
+    list-style-type: square;
+    text-align: center;
+
+}
+.deals h3{
+    color: #b8b5b5;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    text-decoration-line: underline;
+}
